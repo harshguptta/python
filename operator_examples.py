@@ -37,3 +37,7 @@ def as_a_float(num1):
 def as_an_int(num1):
     """Returns the integer value of a number passed in."""
     return int(num1)
+
+def exponentiation(num1,num2):
+    """Returns the value obtained by raising num1 to the power of num2."""
+    return (num1**num2)
